@@ -1,1 +1,2 @@
-# organising-operations-py
+# Organising operations
+# The Tasks: 1.Simple function 2.Local variables 3.Multiple functions 4.Assign a function 5.Funception 6.Arguments and Parameters 7.TypeError | Additional Parameters 8.Multiple arguments 9.The big return
